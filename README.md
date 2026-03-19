@@ -1,6 +1,6 @@
 # SnipLocal
 
-**[→ Live demo](https://NakliTechie.github.io/SnipLocal)**
+**[Try it →](https://NakliTechie.github.io/SnipLocal)**
 
 Remove image backgrounds locally in your browser. No upload. No server. No account.
 
