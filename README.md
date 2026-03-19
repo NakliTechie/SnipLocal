@@ -1,5 +1,7 @@
 # SnipLocal
 
+**[→ Live demo](https://NakliTechie.github.io/SnipLocal)**
+
 Remove image backgrounds locally in your browser. No upload. No server. No account.
 
 Powered by [RMBG-1.4](https://huggingface.co/briaai/RMBG-1.4) via [Transformers.js](https://github.com/huggingface/transformers.js) — the model runs entirely in WebAssembly on your device.
