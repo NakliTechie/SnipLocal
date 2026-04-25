@@ -32,6 +32,12 @@ First load downloads ~176 MB of model weights from Hugging Face — cached by th
 | China | 33×48 mm | 390×567 |
 | Australia | 35×45 mm | 413×531 |
 
+## Palette
+
+Coloured with **`japan-01 · 無印 MUJI`** — Muji / Kinokuniya, the cleanest white in the library, the absence of branding. Fitting for a tool whose entire purpose is the absence of background. Bengara-red brand mark, Edo-navy action.
+
+Palette pulled from [**Rangrez**](https://github.com/NakliTechie/rangrez), the global colour-palette library that backs all NakliTechie projects.
+
 ## Part of the NakliTechie series
 
 | Tool | What it does |
